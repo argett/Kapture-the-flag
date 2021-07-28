@@ -1,0 +1,506 @@
+# depslib dependency file v1.0
+1521449767 source:c:\users\lilian\desktop\exo c\test sdl\test\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114587 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326114594 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\begin_code.h
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\close_code.h
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1521494571 source:c:\users\lilian\desktop\exo c\test sdl\test - copie (2)\maj_fog.c
+	"proto.h"
+
+1521494587 c:\users\lilian\desktop\exo c\test sdl\test - copie (2)\proto.h
+
+1521494735 source:c:\users\lilian\desktop\exo c\test sdl\test - copie (2)\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	"proto.h"
+
+1521616445 source:c:\users\lilian\desktop\exo c\test sdl\test - plus\maj_fog.c
+	"proto.h"
+
+1521571808 c:\users\lilian\desktop\exo c\test sdl\test - plus\proto.h
+
+1521571808 source:c:\users\lilian\desktop\exo c\test sdl\test - plus\main.c
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	"proto.h"
+
+1521744731 source:c:\users\lilian\desktop\exo c\test sdl\test\maj_fog.c
+	"proto.h"
+
+1521743609 c:\users\lilian\desktop\exo c\test sdl\test\proto.h
+	<SDL/SDL.h>
+
+1521721214 source:c:\users\lilian\desktop\exo c\test sdl\test - copie\main.c
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	"proto.h"
+
+1521724705 c:\users\lilian\desktop\exo c\test sdl\test - copie\proto.h
+	<SDL/SDL.h>
+
+1521724766 source:c:\users\lilian\desktop\exo c\test sdl\test - copie\maj_fog.c
+	"proto.h"
+
+1521742417 source:c:\users\lilian\desktop\exo c\test sdl\test - drapeau marche et opti\main.c
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	"proto.h"
+
+1521724705 c:\users\lilian\desktop\exo c\test sdl\test - drapeau marche et opti\proto.h
+	<SDL/SDL.h>
+
+1521724766 source:c:\users\lilian\desktop\exo c\test sdl\test - drapeau marche et opti\maj_fog.c
+	"proto.h"
+
+1521746815 source:c:\users\lilian\desktop\exo c\test sdl\test\main.c
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	"proto.h"
+
+1521744731 source:c:\users\lilian\desktop\kapture c\maj_fog.c
+	"proto.h"
+
+1521743609 c:\users\lilian\desktop\kapture c\proto.h
+	<SDL/SDL.h>
+
+1521751058 source:c:\users\lilian\desktop\kapture c\main.c
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	"proto.h"
+
+1527593325 source:c:\users\lilian\desktop\favre garcia.lilian.seksik.benjamin\main.c
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	"proto.h"
+
+1527593224 c:\users\lilian\desktop\favre garcia.lilian.seksik.benjamin\proto.h
+	<SDL/SDL.h>
+
+1527593544 source:c:\users\lilian\desktop\favre garcia.lilian.seksik.benjamin\maj_fog.c
+	"proto.h"
+	<SDL/SDL.h>
+
+1522049652 source:c:\users\lilian\desktop\hfg,jk\main.c
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	"proto.h"
+
+1522010889 c:\users\lilian\desktop\hfg,jk\proto.h
+	<SDL/SDL.h>
+
+1522330250 source:c:\users\lilian\desktop\hfg,jk\maj_fog.c
+	"proto.h"
+	<SDL/SDL.h>
+
+1538567759 source:c:\users\lilian\desktop\kapture +\main.c
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	"proto.h"
+	"menu.h"
+	"jeu.h"
+	"combat.h"
+	"afficher.h"
+
+1537777017 c:\users\lilian\desktop\kapture +\proto.h
+	<SDL/SDL.h>
+	"combat.h"
+
+1538636171 source:c:\users\lilian\desktop\kapture +\maj_fog.c
+	"proto.h"
+	<SDL/SDL.h>
+
+1539344168 source:c:\users\lilian\desktop\kapture +\l-equipe.c
+	"proto.h"
+
+1539344876 source:c:\users\lilian\desktop\kapture +\menu.c
+	"menu.h"
+
+1539111697 c:\users\lilian\desktop\kapture +\menu.h
+	<SDL/SDL.h>
+	"proto.h"
+	<time.h>
+
+1539348769 source:c:\users\lilian\desktop\kapture +\afficher.c
+	"proto.h"
+	"afficher.h"
+	"jeu.h"
+
+1537777737 c:\users\lilian\desktop\kapture +\jeu.h
+	<SDL/SDL.h>
+	"proto.h"
+	"afficher.h"
+
+1539345661 source:c:\users\lilian\desktop\kapture +\jeu.c
+	"proto.h"
+	"jeu.h"
+
+1539346046 source:c:\users\lilian\desktop\kapture +\combat.c
+	"combat.h"
+	"proto.h"
+
+1536339153 c:\users\lilian\desktop\kapture +\combat.h
+	<SDL/SDL.h>
+	"proto.h"
+
+1539239873 c:\users\lilian\desktop\kapture +\afficher.h
+
+1539348769 source:c:\users\lilian\desktop\exo prog\kapture +\afficher.c
+	"proto.h"
+	"afficher.h"
+	"jeu.h"
+
+1537777017 c:\users\lilian\desktop\exo prog\kapture +\proto.h
+	<SDL/SDL.h>
+	"combat.h"
+
+1536339153 c:\users\lilian\desktop\exo prog\kapture +\combat.h
+	<SDL/SDL.h>
+	"proto.h"
+
+1539239873 c:\users\lilian\desktop\exo prog\kapture +\afficher.h
+
+1537777737 c:\users\lilian\desktop\exo prog\kapture +\jeu.h
+	<SDL/SDL.h>
+	"proto.h"
+	"afficher.h"
+
+1539346046 source:c:\users\lilian\desktop\exo prog\kapture +\combat.c
+	"combat.h"
+	"proto.h"
+
+1539345661 source:c:\users\lilian\desktop\exo prog\kapture +\jeu.c
+	"proto.h"
+	"jeu.h"
+
+1539344168 source:c:\users\lilian\desktop\exo prog\kapture +\l-equipe.c
+	"proto.h"
+
+1538567759 source:c:\users\lilian\desktop\exo prog\kapture +\main.c
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	"proto.h"
+	"menu.h"
+	"jeu.h"
+	"combat.h"
+	"afficher.h"
+
+1539111697 c:\users\lilian\desktop\exo prog\kapture +\menu.h
+	<SDL/SDL.h>
+	"proto.h"
+	<time.h>
+
+1538636171 source:c:\users\lilian\desktop\exo prog\kapture +\maj_fog.c
+	"proto.h"
+	<SDL/SDL.h>
+
+1543398476 source:c:\users\lilian\desktop\exo prog\kapture +\menu.c
+	"menu.h"
+
+1539352369 source:c:\users\lilian\desktop\exo prog\projet  git\kapture +\afficher.c
+	"proto.h"
+	"afficher.h"
+	"jeu.h"
+
+1537780617 c:\users\lilian\desktop\exo prog\projet  git\kapture +\proto.h
+	<SDL/SDL.h>
+	"combat.h"
+
+1536342753 c:\users\lilian\desktop\exo prog\projet  git\kapture +\combat.h
+	<SDL/SDL.h>
+	"proto.h"
+
+1539243473 c:\users\lilian\desktop\exo prog\projet  git\kapture +\afficher.h
+
+1537781337 c:\users\lilian\desktop\exo prog\projet  git\kapture +\jeu.h
+	<SDL/SDL.h>
+	"proto.h"
+	"afficher.h"
+
+1539349646 source:c:\users\lilian\desktop\exo prog\projet  git\kapture +\combat.c
+	"combat.h"
+	"proto.h"
+
+1539349261 source:c:\users\lilian\desktop\exo prog\projet  git\kapture +\jeu.c
+	"proto.h"
+	"jeu.h"
+
+1539347768 source:c:\users\lilian\desktop\exo prog\projet  git\kapture +\l-equipe.c
+	"proto.h"
+
+1538639771 source:c:\users\lilian\desktop\exo prog\projet  git\kapture +\maj_fog.c
+	"proto.h"
+	<SDL/SDL.h>
+
+1543402076 source:c:\users\lilian\desktop\exo prog\projet  git\kapture +\menu.c
+	"menu.h"
+
+1539115297 c:\users\lilian\desktop\exo prog\projet  git\kapture +\menu.h
+	<SDL/SDL.h>
+	"proto.h"
+	<time.h>
+
+1557265463 source:c:\users\lilian\desktop\exo prog\projet  git\kapture +\main.c
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	"proto.h"
+	"menu.h"
+	"jeu.h"
+	"combat.h"
+	"afficher.h"
+
+1539348770 source:c:\users\lilian\documents\projets git\c - kapture the flag +\afficher.c
+	"proto.h"
+	"afficher.h"
+	"jeu.h"
+
+1537777018 c:\users\lilian\documents\projets git\c - kapture the flag +\proto.h
+	<SDL/SDL.h>
+	"combat.h"
+
+1536339154 c:\users\lilian\documents\projets git\c - kapture the flag +\combat.h
+	<SDL/SDL.h>
+	"proto.h"
+
+1539239874 c:\users\lilian\documents\projets git\c - kapture the flag +\afficher.h
+
+1537777738 c:\users\lilian\documents\projets git\c - kapture the flag +\jeu.h
+	<SDL/SDL.h>
+	"proto.h"
+	"afficher.h"
+
+1539346048 source:c:\users\lilian\documents\projets git\c - kapture the flag +\combat.c
+	"combat.h"
+	"proto.h"
+
+1539345662 source:c:\users\lilian\documents\projets git\c - kapture the flag +\jeu.c
+	"proto.h"
+	"jeu.h"
+
+1539344170 source:c:\users\lilian\documents\projets git\c - kapture the flag +\l-equipe.c
+	"proto.h"
+
+1557262194 source:c:\users\lilian\documents\projets git\c - kapture the flag +\maj_fog.c
+	"proto.h"
+	<SDL/SDL.h>
+
+1543398478 source:c:\users\lilian\documents\projets git\c - kapture the flag +\menu.c
+	"menu.h"
+
+1539111698 c:\users\lilian\documents\projets git\c - kapture the flag +\menu.h
+	<SDL/SDL.h>
+	"proto.h"
+	<time.h>
+
